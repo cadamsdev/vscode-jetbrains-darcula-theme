@@ -1,15 +1,15 @@
 {
-    "name": "jetbrains-darcula-theme",
+    "name": "vscode-jetbrains-darcula-theme",
     "displayName": "JetBrains Darcula Theme",
     "description": "A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements",
-    "publisher": "Anan",
+    "publisher": "chadalen",
     "version": "1.0.9",
     "license": "MIT",
     "icon": "theme-icon.png",
     "galleryBanner": {
         "color": "#3c3f41",
         "theme": "dark"
-      },
+    },
     "categories": [
         "Themes"
     ],
@@ -26,13 +26,13 @@
 		"jetbrains",
         "jetbrains theme"
 	],
-    "homepage": "https://github.com/mohamed3nan/jetbrains-darcula-theme",
+    "homepage": "https://github.com/chadalen/vscode-jetbrains-darcula-theme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mohamed3nan/JetBrains-Darcula-Theme"
+        "url": "https://github.com/chadalen/vscode-jetbrains-darcula-theme"
     },
     "bugs": {
-		"url": "https://github.com/mohamed3nan/JetBrains-Darcula-Theme/issues"
+		"url": "https://github.com/chadalen/vscode-jetbrains-darcula-theme/issues"
     },
 	"badges": [
 		{
